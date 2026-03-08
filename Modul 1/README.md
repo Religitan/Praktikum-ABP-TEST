@@ -60,7 +60,3 @@ Perintah tersebut digunakan untuk menambahkan semua file ke staging area, membua
 ## Hasil
 
 Repository GitHub berhasil diperbarui dengan struktur folder Modul 1 sampai Modul 5. Setiap folder telah berisi file yang dapat di-track oleh Git sehingga repository memiliki susunan yang lebih rapi dan terorganisir.
-
-![SS 1](ss-1.png)
-
-![SS 2](ss-2.png)
