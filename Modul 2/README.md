@@ -15,10 +15,7 @@ Membuat file HTML baru dengan struktur dasar HTML seperti <!DOCTYPE html>, <html
 
 # 2. Menambahkan Judul Halaman
 Menambahkan judul halaman menggunakan tag <h1> dengan teks "Tabel Mahasiswa".
-
 # 3. Membuat Tabel Mahasiswa
-Membuat tabel menggunakan tag <table> dengan kolom No, Nama, dan NIM menggunakan tag <th> dan <td>.
-
 # 4. Menambahkan Data Mahasiswa
 Mengisi tabel dengan data mahasiswa seperti Religita dan Jeno beserta NIM masing-masing.
 
@@ -26,3 +23,4 @@ Mengisi tabel dengan data mahasiswa seperti Religita dan Jeno beserta NIM masing
 Halaman web berhasil menampilkan tabel mahasiswa yang berisi nomor, nama, dan NIM.
 
 ![SS 1](ss-1.png)
+
