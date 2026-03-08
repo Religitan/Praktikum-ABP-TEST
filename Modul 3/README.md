@@ -202,5 +202,3 @@ Berikut adalah keseluruhan kode dari file `imlek.html`:
 
 ## Hasil
 Halaman web berhasil menampilkan tampilan bertema Imlek dengan background merah gradient, judul bercahaya emas, dua lampion yang beranimasi berayun di kiri dan kanan, serta efek confetti emas yang jatuh dari atas layar.
-
-![Happy Chinese New Year](SS_IMLEK.png)
