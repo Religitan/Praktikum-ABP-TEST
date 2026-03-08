@@ -1,7 +1,7 @@
-# Modul 2 - HTML
+Modul 3 - HTML
 Deskripsi
 
-Pada modul ini dipelajari dasar-dasar HTML (HyperText Markup Language) yang digunakan untuk membangun struktur halaman web. HTML berfungsi untuk menampilkan berbagai elemen seperti teks, heading, tabel, gambar, hyperlink, serta form pada halaman web.
+Pada modul ini dilakukan pembuatan halaman web sederhana menggunakan HTML untuk menampilkan data mahasiswa dalam bentuk tabel.
 
 HTML
 
